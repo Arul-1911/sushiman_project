@@ -1,5 +1,5 @@
-// import AOS from "aos";
-// import "aos/dist/aos.css";
+import AOS from "aos";
+import "aos/dist/aos.css";
 import check from "../assets/check.svg";
 import star from "../assets/star.svg";
 import sushi12 from "../assets/sushi-12.png";
