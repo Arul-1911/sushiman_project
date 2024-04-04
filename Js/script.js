@@ -8,7 +8,7 @@ import sushi10 from "../assets/sushi-10.png";
 
 // init AOS animation
 AOS.init({
-  duration: 1000,
+  duration: 1100,
   offset: 100,
 });
 
